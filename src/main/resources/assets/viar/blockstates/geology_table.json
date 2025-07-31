@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "viar:block/geology_table" }
+    }
+}
